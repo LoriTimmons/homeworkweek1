@@ -3,42 +3,42 @@
   padding: 0;
   margin: 0;
 }
-/* change order of css layout to match HTML */
+/* change order of css layout to match HTM ✅L */
 /* spacing ?? */
 body {
   background-color: #d9dcd6;
 }
-/* change to match semantic element*/
-.header {
+/* change to match semantic element ✅ */
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   background-color: #2a607c;
   color: #ffffff;
 }
-/* change to match semantic element*/
-.header h1 {
+/* change to match semantic element ✅*/
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
-/* change to match semantic element*/
-.header h1 .seo {
+/* change to match semantic element ✅*/
+header h1 .seo {
   color: #d9dcd6;
 }
-/* change to match semantic elements*/
-.header nav {
+/* change to match semantic elements ✅*/
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-/* change to match semantic elements*/
-.header nav ul {
+/* change to match semantic elements ✅*/
+header nav ul {
   list-style-type: none;
 }
-/* change to match semantic elements*/
-.header nav ul li {
+/* change to match semantic elements ✅*/
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -47,8 +47,9 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
-/* removed "p" styling as all "<p> were defined in other styling. If i need to add back in the styling was p {font-size; 16px */
+/* removed "p" styling as all "<p> were defined in other styling. If i need to add back in the styling was p {font-size; 16px ✅*/
 
+/* change to match semantic elements ✅*/
 .hero {
   height: 800px;
   width: 100%;
