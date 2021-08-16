@@ -1,13 +1,10 @@
 Lori Timmons
 
 Project Description 
-After review of the existing code structure, I was able to improve many aspects of its html and CSS syntax. Made changes to the readability of the code by adding semantic elements, updated format / order of both CSS and html files and removed unnecessary code lines. Reviewed the site's accessability status and made updates to ensure our website is accessible to all users. Accessability was improved Added alt text to all images, fixing broken links and improving contrast. I fixed 
+After review of the existing code structure, I was able to improve many aspects of the html and CSS syntax. I made changes to the readability of the code by adding semantic elements, updated format / order of both CSS and html files and removed unnecessary code lines. Reviewed the site's accessibility status and made updates to ensure the website is accessible to all users. Accessibility was improved by adding alt text to all images, fixing broken links and improving contrast of text vs background. I also added a <meta> to help improve SEO. 
 
 Screenshot 
-![alt text](http://url/to/img.png)
+![Main Page / Hero](homeworkweekone/assets/images/horiseon-main.png)
 
-Git hub pages url 
-
-Git repo
-
-Click and go to the right spot 
+URL to deployed application: https://loritimmons.github.io/homeworkweek1/
+The URL of the GitHub repository: https://github.com/LoriTimmons/homeworkweek1
